@@ -1,0 +1,11 @@
+.footer a{
+    text-decoration: none;
+    color: black;
+}
+.footer a:hover{
+    color: orange;
+}
+.main-footer{
+    padding: 50px;
+    background-color: rgb(245, 248, 249);
+}
